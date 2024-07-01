@@ -37,5 +37,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shrestha-ghosh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shrestha-ghosh&icon=4&color=7)](https://visitcount.itsvg.in)
+
 
