@@ -6,7 +6,7 @@
 <p align="center">
 <h4 align="center">Profile Views</h4>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{chaitak-gorai}/count.svg" alt="Visitor Count" />
+<img src="https://profile-counter.glitch.me/{shrestha-ghosh}/count.svg" alt="Visitor Count" />
 </p>
 </p>
 
