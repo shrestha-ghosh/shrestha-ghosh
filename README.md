@@ -13,12 +13,13 @@
 
 <br>
 ## 💫 About Me:<br>
+<p align="center">
 🏫 I'm a junior at <a href="https://www.shiksha.com/bca-bachelor-of-computer-applications-chp">  Bachelor of Computer Applications </a>, at <a href="https://iem.edu.in/">IEM, Kolkata</a><br>
 ⚡ I'm a beginner of Full Stack Developer , versatile in Frontend .<br>
 🌱 I’m currently learning MERN Stack and Software Engineering.<br>
 💬  I’m currently open for a new job opportunity. <br>
 🤓 Always learning new things.<br>
-
+</p>
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
