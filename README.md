@@ -36,8 +36,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha-ghosh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)\
 </p>
 
-<p align="center"> 
-### ✍️ Random Dev Quote
+
+### ✍️ Random Dev Quote<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
