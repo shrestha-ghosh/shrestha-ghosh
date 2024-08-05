@@ -19,10 +19,12 @@
 🌱 I’m currently learning MERN Stack and Software Engineering.<br>
 💬  I’m currently open for a new job opportunity. <br>
 🤓 Always learning new things.<br>
-</p>
+
+
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+</p>
 
 
 
